@@ -15,4 +15,4 @@ function isPalindrom(string) {
     return true
 }
 
-console.log(isPalindrom(testPalidrome))
+// console.log(isPalindrom(testPalidrome))
