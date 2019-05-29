@@ -19,4 +19,4 @@ function factorize(num) {
     return factorarray
 }
 
-console.log(factorize(17))
+// console.log(factorize(17))
