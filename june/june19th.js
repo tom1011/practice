@@ -17,7 +17,6 @@ function birdCode(arr) {
         switch (wordcount) {
             case 3:
             temparr = arr[i].split(/ |-/)
-            
             returnArray.push(temparr[0].substring(0,1).toUpperCase() + temparr[1].substring(0,1).toUpperCase() + temparr[2].substring(0,1).toUpperCase() + temparr[3].substring(0,1).toUpperCase())
             break
             case 2:
