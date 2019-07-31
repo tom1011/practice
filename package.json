@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node july/july29.js"
+    "start": "node july/july30.js"
   },
   "author": "",
   "license": "ISC",
